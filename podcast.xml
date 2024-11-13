@@ -6,9 +6,16 @@
     <description>Os aventureiros do Canal PeeWee se juntam nesse podcast bem humorado para discutir os mais variados assuntos!</description>
     <language>pt-BR</language>
     <image href="https://yt3.googleusercontent.com/TF8JPcklkyC8e_U7YuGH9E8-rZeIpe4EG0YRt8UntgpkGJ2q1XtdWJCi8l1zG0_3xOJtu0CN7Q=s160-c-k-c0x00ffffff-no-rj" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
-    <category text="Technology" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <category text="TV &amp; Film" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
     <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Podcast Author</author>
+    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Canal PeeWee</author>
+    <image>
+      <url>https://yt3.googleusercontent.com/TF8JPcklkyC8e_U7YuGH9E8-rZeIpe4EG0YRt8UntgpkGJ2q1XtdWJCi8l1zG0_3xOJtu0CN7Q=s160-c-k-c0x00ffffff-no-rj</url>
+      <title>PeeWeeCast</title>
+      <link>https://yt3.googleusercontent.com/TF8JPcklkyC8e_U7YuGH9E8-rZeIpe4EG0YRt8UntgpkGJ2q1XtdWJCi8l1zG0_3xOJtu0CN7Q=s160-c-k-c0x00ffffff-no-rj</link>
+      <widht>32</widht>
+      <height>32</height>
+    </image>
     <item>
       <title>Quais os Melhores BONECOS dos Filmes? | Papinho #029</title>
       <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Canal PeeWee</author>
@@ -37,69 +44,5 @@ Annabelle, Chucky, Billy... o cinema tá CHEIO de bonecos memoráveis, especialm
       <enclosure url="https://yourwebsite.com/audio/episode2.mp3" length="12345678" type="audio/mpeg" />
       <guid>https://www.youtube.com/watch?v=6QIkfVxCWk0</guid>
       <pubDate>2024-11-06T22:15:00Z</pubDate>
-    </item>
-    <item>
-      <title>Qual o Melhor Filme BILIONÁRIO? Rankeando as 20 maiores Bilheterias da História | Papinho #028</title>
-      <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Canal PeeWee</author>
-      <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Dinheiro é sinônimo de qualidade? Hoje pegamos as 20 maiores bilheterias da história e fizemos um ranking de qualidade desses filmes. Diz aí: concorda com a nossa opinião? O que você mudaria no ranking? #PeeWeeCast #Ranking #MelhoresFilmes</summary>
-      <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">https://i.ytimg.com/vi/w9n75sQdprk/mqdefault.jpg</image>
-      <enclosure url="https://yourwebsite.com/audio/episode2.mp3" length="12345678" type="audio/mpeg" />
-      <guid>https://www.youtube.com/watch?v=w9n75sQdprk</guid>
-      <pubDate>2024-11-02T18:30:47Z</pubDate>
-    </item>
-    <item>
-      <title>Qual o MAIOR Vilão de Terror do SÉCULO? | PWC #281</title>
-      <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Canal PeeWee</author>
-      <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Qual o melhor vilão de terror dos últimos 24 anos? No nosso especial de Halloween deste ano, trazemos um mata-mata com a ilustre presença de vários ícones do horror, como o Chucky Emo, o Patrick Bateman com Calor, A Freira Safada e Um Cara com Capa de Chuva. Diz aí o que achou da superprodução e, principalmente, se concorda ou não com o resultado. #peewee #filmesdeterror #podcast</summary>
-      <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">https://i.ytimg.com/vi/21sP7qNL0w8/mqdefault.jpg</image>
-      <enclosure url="https://yourwebsite.com/audio/episode2.mp3" length="12345678" type="audio/mpeg" />
-      <guid>https://www.youtube.com/watch?v=21sP7qNL0w8</guid>
-      <pubDate>2024-10-30T22:00:02Z</pubDate>
-    </item>
-    <item>
-      <title>Filmes que MUDARAM a Vida de VOCÊS e Imagem e Ação dos Filmes  | CHAMA O VAR #17</title>
-      <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Canal PeeWee</author>
-      <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Teve comentários nos PWC? ENTÃO CHAMA O VAAAAAAAAR!</summary>
-      <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">https://i.ytimg.com/vi/LU1c01-74iM/mqdefault.jpg</image>
-      <enclosure url="https://yourwebsite.com/audio/episode2.mp3" length="12345678" type="audio/mpeg" />
-      <guid>https://www.youtube.com/watch?v=LU1c01-74iM</guid>
-      <pubDate>2024-10-29T13:04:18Z</pubDate>
-    </item>
-    <item>
-      <title>Quais as  MÁSCARAS mais ASSUSTADORAS dos Filmes de TERROR? | Papinho #027</title>
-      <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Canal PeeWee</author>
-      <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Quando o assunto são as máscaras mais icônicas do terror, a resposta é óbvia: Jason, Michael Myers, Ghostface, Leatherface… Pensando nisso, hoje a gente não vai definir as melhores, mas sim as mais assustadoras máscaras dos filmes de terror. Diz aí nos comentários: qual a sua opinião? Concorda com a gente? #peeweecast #filmesdeterror</summary>
-      <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">https://i.ytimg.com/vi/rsx2ql-vWYA/mqdefault.jpg</image>
-      <enclosure url="https://yourwebsite.com/audio/episode2.mp3" length="12345678" type="audio/mpeg" />
-      <guid>https://www.youtube.com/watch?v=rsx2ql-vWYA</guid>
-      <pubDate>2024-10-26T19:00:32Z</pubDate>
-    </item>
-    <item>
-      <title>No meu TEMPO era MUITO MELHOR…  | PWC #280</title>
-      <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Canal PeeWee</author>
-      <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Será que videolocadora era mais massa do que streaming? E o lance de jogar videogame na casa dos amigos... será que era melhor do que multiplayer online? Hoje nosso time de jovens senhores se reúne para falar sobre coisas que pioraram (ou não) com o passar do tempo. Ouve aí e comenta algo que era melhor no seu tempo, vai.</summary>
-      <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">https://i.ytimg.com/vi/IlP2O-nwa98/mqdefault.jpg</image>
-      <enclosure url="https://yourwebsite.com/audio/episode2.mp3" length="12345678" type="audio/mpeg" />
-      <guid>https://www.youtube.com/watch?v=IlP2O-nwa98</guid>
-      <pubDate>2024-10-23T22:00:23Z</pubDate>
-    </item>
-    <item>
-      <title>Fizemos uma PREVISÃO quais serão os melhores e piores LANÇAMENTOS de 2025 | CHAMA O VAR #16</title>
-      <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Canal PeeWee</author>
-      <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Hoje vamos dar uma de Mãe Diná e faremos uma leitura/previsão de qual vai ser o melhor e o pior lançamento de 2025, será que vamos acertar alguma dessas previsões? E deixem ai o seu comentário qual a sua previsão sobre os filmes que serão lançados em 2025!
- #peewee  #peeweecast</summary>
-      <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">https://i.ytimg.com/vi/j6iYJdsqxAk/mqdefault.jpg</image>
-      <enclosure url="https://yourwebsite.com/audio/episode2.mp3" length="12345678" type="audio/mpeg" />
-      <guid>https://www.youtube.com/watch?v=j6iYJdsqxAk</guid>
-      <pubDate>2024-10-21T22:00:40Z</pubDate>
-    </item>
-    <item>
-      <title>Filmes que MARCARAM nossas VIDAS | Papinho #026</title>
-      <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Canal PeeWee</author>
-      <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Tem filme que você adora, tem filme que você odeia, mas poucos são aqueles que realmente marcam a sua vida. Hoje nos reunimos pra bater um papo sobre isso e lembrar alguns longas que guardamos em nossos corações. Diz aí nos comentários quais são os filmes da SUA vida pra lermos em um próximo Chama o VAR. #peewee #peeweecast</summary>
-      <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">https://i.ytimg.com/vi/WBh7Q8rE7lM/mqdefault.jpg</image>
-      <enclosure url="https://yourwebsite.com/audio/episode2.mp3" length="12345678" type="audio/mpeg" />
-      <guid>https://www.youtube.com/watch?v=WBh7Q8rE7lM</guid>
-      <pubDate>2024-10-19T18:30:22Z</pubDate>
     </item>
   </channel>
