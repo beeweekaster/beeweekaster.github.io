@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <title>PeeWeeCast</title>
-    <link>https://canalpeewee.com.br/peeweecast/</link>
+    <link>https://www.youtube.com/@PeeWeeCast</link>
     <description>Os aventureiros do Canal PeeWee se juntam nesse podcast bem humorado para discutir os mais variados assuntos!</description>
     <language>pt-BR</language>
     <itunes:image href="https://yt3.googleusercontent.com/TF8JPcklkyC8e_U7YuGH9E8-rZeIpe4EG0YRt8UntgpkGJ2q1XtdWJCi8l1zG0_3xOJtu0CN7Q=s160-c-k-c0x00ffffff-no-rj" />
@@ -12,7 +12,7 @@
     <image>
       <url>https://yt3.googleusercontent.com/TF8JPcklkyC8e_U7YuGH9E8-rZeIpe4EG0YRt8UntgpkGJ2q1XtdWJCi8l1zG0_3xOJtu0CN7Q=s160-c-k-c0x00ffffff-no-rj</url>
       <title>PeeWeeCast</title>
-      <link>https://canalpeewee.com.br/peeweecast/</link>
+      <link>https://www.youtube.com/@PeeWeeCast</link>
       <widht>32</widht>
       <height>32</height>
     </image>
@@ -47,6 +47,46 @@ Annabelle, Chucky, Billy... o cinema tá CHEIO de bonecos memoráveis, especialm
       <enclosure url="https://beeweekaster.github.io/episodes/nfBY6YNNmjI.mp3" type="audio/mpeg" />
       <guid>nfBY6YNNmjI</guid>
       <pubDate>2024-11-08T11:01:05Z</pubDate>
+    </item>
+    <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Um ou Outro? | PWC #282</title>
+      <itunes:author>Canal PeeWee</itunes:author>
+      <itunes:summary>Cinema ou streaming? Filme ou série? Terror ou suspense? Beatles ou Oasis? Carnaval ou Halloween? Hoje é dia de fazer perguntas esdrúxulas em busca de respostas vazias. E, se você conhece o PeeWeeCast, sabe que somos especialistas nisso. Assista preparado para se irritar e diz aí nos comentários qual o maior absurdo desse podcast #PeeWee #PeeWeecast #umououtro</itunes:summary>
+      <itunes:duration>01:20:11</itunes:duration>
+      <itunes:image>https://i.ytimg.com/vi/6QIkfVxCWk0/mqdefault.jpg</itunes:image>
+      <enclosure url="https://beeweekaster.github.io/episodes/6QIkfVxCWk0.mp3" type="audio/mpeg" />
+      <guid>6QIkfVxCWk0</guid>
+      <pubDate>2024-11-06T22:15:00Z</pubDate>
+    </item>
+    <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Qual o Melhor Filme BILIONÁRIO? Rankeando as 20 maiores Bilheterias da História | Papinho #028</title>
+      <itunes:author>Canal PeeWee</itunes:author>
+      <itunes:summary>Dinheiro é sinônimo de qualidade? Hoje pegamos as 20 maiores bilheterias da história e fizemos um ranking de qualidade desses filmes. Diz aí: concorda com a nossa opinião? O que você mudaria no ranking? #PeeWeeCast #Ranking #MelhoresFilmes</itunes:summary>
+      <itunes:duration>00:30:23</itunes:duration>
+      <itunes:image>https://i.ytimg.com/vi/w9n75sQdprk/mqdefault.jpg</itunes:image>
+      <enclosure url="https://beeweekaster.github.io/episodes/w9n75sQdprk.mp3" type="audio/mpeg" />
+      <guid>w9n75sQdprk</guid>
+      <pubDate>2024-11-02T18:30:47Z</pubDate>
+    </item>
+    <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Qual o MAIOR Vilão de Terror do SÉCULO? | PWC #281</title>
+      <itunes:author>Canal PeeWee</itunes:author>
+      <itunes:summary>Qual o melhor vilão de terror dos últimos 24 anos? No nosso especial de Halloween deste ano, trazemos um mata-mata com a ilustre presença de vários ícones do horror, como o Chucky Emo, o Patrick Bateman com Calor, A Freira Safada e Um Cara com Capa de Chuva. Diz aí o que achou da superprodução e, principalmente, se concorda ou não com o resultado. #peewee #filmesdeterror #podcast</itunes:summary>
+      <itunes:duration>01:19:58</itunes:duration>
+      <itunes:image>https://i.ytimg.com/vi/21sP7qNL0w8/mqdefault.jpg</itunes:image>
+      <enclosure url="https://beeweekaster.github.io/episodes/21sP7qNL0w8.mp3" type="audio/mpeg" />
+      <guid>21sP7qNL0w8</guid>
+      <pubDate>2024-10-30T22:00:02Z</pubDate>
+    </item>
+    <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Filmes que MUDARAM a Vida de VOCÊS e Imagem e Ação dos Filmes  | CHAMA O VAR #17</title>
+      <itunes:author>Canal PeeWee</itunes:author>
+      <itunes:summary>Teve comentários nos PWC? ENTÃO CHAMA O VAAAAAAAAR!</itunes:summary>
+      <itunes:duration>00:22:42</itunes:duration>
+      <itunes:image>https://i.ytimg.com/vi/LU1c01-74iM/mqdefault.jpg</itunes:image>
+      <enclosure url="https://beeweekaster.github.io/episodes/LU1c01-74iM.mp3" type="audio/mpeg" />
+      <guid>LU1c01-74iM</guid>
+      <pubDate>2024-10-29T13:04:18Z</pubDate>
     </item>
   </channel>
 </rss>
